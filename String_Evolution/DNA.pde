@@ -1,7 +1,4 @@
 char newChar(){
-  /*boolean isCap = (floor(random(0,10)) & 1) == 0;
-  if(isCap) return char(floor(random(65,90)));
-  else return char(floor(random(97,122)));*/
   int r = floor(random(64,122));
   if(r == 64) r = 32;
   return char(r);
