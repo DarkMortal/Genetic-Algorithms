@@ -1,1 +1,1 @@
-# Repository for Genetic Algorithms
+# Repository for Genetic Algorithms and Neural Networks
