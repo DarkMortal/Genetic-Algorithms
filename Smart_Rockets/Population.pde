@@ -8,7 +8,6 @@ class Population {
     this.generations = 0; // Number of generations
     this.TARGET = TARGETED; // Target to reach 
     this.mutationRate = mutation; // Mutation rate
-    // this.perfectScore = 1.0;
     this.rocketsReached = 0;
     
     // Generating initial population
